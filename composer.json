@@ -1,11 +1,15 @@
 {
-    "name": "gufy/cpanel-php",
+    "name": "chrisbjr/cpanel-php",
     "description": "Cpanel/WHM API for PHP",
     "license": "MIT",
     "authors": [
         {
             "name": "Mochamad Gufron",
             "email": "mgufronefendi@gmail.com"
+        },
+        {
+            "name": "Chris Bautista",
+            "email": "chrisbjr@gmail.com"
         }
     ],
     "require": {
